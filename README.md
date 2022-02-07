@@ -4,6 +4,7 @@ Script custom creato per il mio server Sigma, forked da call911. Quando si esegu
 # Requisiti
 - Un server FiveM con ESX
 - [pnpNotify](https://vibeful.tebex.io/package/4499233)
+- esx_policejob per il check dello status del player
 
 # Supporto
 Questo è un vecchio plugin aggiornato al 2022. Non c'è nessun tipo di supporto. Qualsiasi Issue o Pull request verrà ignorata e chiusa.
