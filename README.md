@@ -1,5 +1,5 @@
 # sigma_ambulanza
-Script custom creato per il mio server Sigma, forked da call911. Quando si esegue il comando /ambulanza ai medici in servizio (job: ambulance) arriva una notifica e sulla mappa esce il blip con la posizione del giocatore per un tot di minuti. Rilascio lo script in quanto non serve più.
+Script custom creato per il mio server [Sigma](https://sigmarp.it), forked da call911. Quando si esegue il comando /ambulanza ai medici in servizio (job: ambulance) arriva una notifica e sulla mappa esce il blip con la posizione del giocatore per un tot di minuti. Rilascio lo script in quanto non serve più.
 
 # Requisiti
 - Un server FiveM con ESX
